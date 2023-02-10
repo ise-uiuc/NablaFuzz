@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"003f0d5987f842d5bd6787aea04116b9","collectionName":"tf.compat.v1.keras.layers.AveragePooling3D","type":"collection"}

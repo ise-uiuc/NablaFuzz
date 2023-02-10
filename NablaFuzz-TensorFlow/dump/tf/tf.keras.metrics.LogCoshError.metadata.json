@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0b1a858c3ba94da8bafac849e983ac72","collectionName":"tf.keras.metrics.LogCoshError","type":"collection"}

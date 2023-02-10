@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"33ad6a0b193444348c904447876fa9e8","collectionName":"jax.lax.linalg.tridiagonal_solve","type":"collection"}

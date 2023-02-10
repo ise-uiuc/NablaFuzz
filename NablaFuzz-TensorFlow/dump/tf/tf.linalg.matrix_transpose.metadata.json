@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"4fe822cebc9e4d629fe089e5ee113ebd","collectionName":"tf.linalg.matrix_transpose","type":"collection"}

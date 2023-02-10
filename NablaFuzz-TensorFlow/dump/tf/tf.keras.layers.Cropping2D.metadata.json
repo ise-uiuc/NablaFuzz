@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a626aea9b8364db6b26be4f3c1f6e3aa","collectionName":"tf.keras.layers.Cropping2D","type":"collection"}

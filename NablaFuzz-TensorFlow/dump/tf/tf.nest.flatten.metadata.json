@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"087c95e6120340f7a757851562b9b2a0","collectionName":"tf.nest.flatten","type":"collection"}

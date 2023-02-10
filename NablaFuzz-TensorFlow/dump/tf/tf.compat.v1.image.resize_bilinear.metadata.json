@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b940997e9342470fb548d48524b1c209","collectionName":"tf.compat.v1.image.resize_bilinear","type":"collection"}

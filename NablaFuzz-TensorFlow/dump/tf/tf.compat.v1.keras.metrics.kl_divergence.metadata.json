@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d5da65fe5c974ac386d9d7146481cbee","collectionName":"tf.compat.v1.keras.metrics.kl_divergence","type":"collection"}

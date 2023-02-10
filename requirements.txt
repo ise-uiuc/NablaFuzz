@@ -1,0 +1,11 @@
+torch==1.11.0
+jax==0.3.14
+jaxlib==0.3.14
+tensorflow==2.9.1
+pymongo
+numpy
+configparser
+textdistance
+munkres
+termcolor
+pathlib

@@ -1,0 +1,14 @@
+,Count,Buggy APIs
+https://github.com/Oneflow-Inc/oneflow/issues/8640,1,nn.MovingAverageMinMaxObserver
+https://github.com/Oneflow-Inc/oneflow/issues/8685,1,nn.FakeQuantization
+https://github.com/Oneflow-Inc/oneflow/issues/8769,1,fmod
+https://github.com/Oneflow-Inc/oneflow/issues/8765,3,nn.UpsamplingBilinear2d; nn.functional.interpolate; nn.UpsamplingNearest2d
+https://github.com/Oneflow-Inc/oneflow/issues/8837,1,floor_divide
+https://github.com/Oneflow-Inc/oneflow/issues/8838,1,nn.functional.normalize
+https://github.com/Oneflow-Inc/oneflow/issues/8986,3,mul;dot;var
+https://github.com/Oneflow-Inc/oneflow/issues/8701,1,eq
+https://github.com/Oneflow-Inc/oneflow/issues/8702,1,tesnor_buffer_to_tensor
+https://github.com/Oneflow-Inc/oneflow/issues/8639,6,nn.Conv2D; nn.RNN; nn.PReLU; roi_align; nn.Linear;nn.BatchNorm2d; nn.Conv1d
+https://github.com/Oneflow-Inc/oneflow/issues/8940,1,diagonal
+https://github.com/Oneflow-Inc/oneflow/issues/9013,1,gather_nd
+,21,

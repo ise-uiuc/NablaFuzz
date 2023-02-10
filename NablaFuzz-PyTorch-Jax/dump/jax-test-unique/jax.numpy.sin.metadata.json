@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"cfa68405b67f408a99ecb00dd44683c1","collectionName":"jax.numpy.sin","type":"collection"}

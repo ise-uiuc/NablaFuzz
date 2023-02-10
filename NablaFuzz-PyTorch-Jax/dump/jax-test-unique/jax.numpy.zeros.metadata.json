@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7bea9d55560a4ec480ab878d3fc654ec","collectionName":"jax.numpy.zeros","type":"collection"}

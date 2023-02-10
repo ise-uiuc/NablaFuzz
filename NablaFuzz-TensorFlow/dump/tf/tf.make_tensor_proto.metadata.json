@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7d87f05ca1a7477ea1bf10a2c324e09c","collectionName":"tf.make_tensor_proto","type":"collection"}

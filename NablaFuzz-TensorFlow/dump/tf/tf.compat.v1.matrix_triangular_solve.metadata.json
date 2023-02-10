@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"13f200d309a340fca5a96d19cbc47aaa","collectionName":"tf.compat.v1.matrix_triangular_solve","type":"collection"}

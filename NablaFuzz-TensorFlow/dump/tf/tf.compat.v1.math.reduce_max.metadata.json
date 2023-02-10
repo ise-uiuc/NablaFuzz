@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ca37e2e9faba4bc9a65fa00b6f0cf2f6","collectionName":"tf.compat.v1.math.reduce_max","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3e094233061440d6a1c3001f2154ed9e","collectionName":"tf.optimizers.schedules.PolynomialDecay","type":"collection"}

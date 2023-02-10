@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"610443310a7c4e5fb154feb4ff8a47ba","collectionName":"tf.metrics.SparseCategoricalCrossentropy","type":"collection"}

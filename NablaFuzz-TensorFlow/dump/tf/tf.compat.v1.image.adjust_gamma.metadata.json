@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"5f91fe195e244b6cb19ac8e1d13f4cdf","collectionName":"tf.compat.v1.image.adjust_gamma","type":"collection"}

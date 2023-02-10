@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f76ac21c96e34c5b92a473e3ab48c097","collectionName":"tf.metrics.Poisson","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fb074afd0a4f4b42ac3f3f6a3fc5669e","collectionName":"tf.keras.optimizers.schedules.PolynomialDecay","type":"collection"}

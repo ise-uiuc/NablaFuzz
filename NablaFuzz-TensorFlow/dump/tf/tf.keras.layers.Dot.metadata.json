@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"521263aef1b3460d869be2e47c3783cc","collectionName":"tf.keras.layers.Dot","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"30310be8bb4d4c60a98ad3ffd56919d7","collectionName":"tf.compat.v1.keras.losses.CosineSimilarity","type":"collection"}

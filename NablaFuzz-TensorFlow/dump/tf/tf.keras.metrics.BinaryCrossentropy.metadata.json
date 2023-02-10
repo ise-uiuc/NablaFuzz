@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"913c8033ff564058a0deb34007897800","collectionName":"tf.keras.metrics.BinaryCrossentropy","type":"collection"}

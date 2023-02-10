@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"68dd6612f38f437a973ce83d036b0b75","collectionName":"jax.numpy.floor_divide","type":"collection"}

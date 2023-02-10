@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"e68a5643740f45b6b2dc7dfe4365dea5","collectionName":"jax.profiler.start_trace","type":"collection"}

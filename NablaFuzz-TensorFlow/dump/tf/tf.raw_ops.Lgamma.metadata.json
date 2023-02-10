@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d91d338222934609820107f4b1019f36","collectionName":"tf.raw_ops.Lgamma","type":"collection"}

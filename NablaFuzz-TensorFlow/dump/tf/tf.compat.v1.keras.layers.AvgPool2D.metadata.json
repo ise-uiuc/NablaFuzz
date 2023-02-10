@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"143d9e4409c94f1f921032c17c355166","collectionName":"tf.compat.v1.keras.layers.AvgPool2D","type":"collection"}

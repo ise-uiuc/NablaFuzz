@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"65857c77b4fb4690b2aca57b240242fa","collectionName":"tf.keras.layers.ELU","type":"collection"}

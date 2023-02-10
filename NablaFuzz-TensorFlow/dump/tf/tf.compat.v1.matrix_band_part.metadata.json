@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"816e68aa303d44578645e9992df0a630","collectionName":"tf.compat.v1.matrix_band_part","type":"collection"}

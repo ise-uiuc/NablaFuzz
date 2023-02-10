@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6c060654cee642b59226cb8d5cf65ac5","collectionName":"jax.random.bernoulli","type":"collection"}

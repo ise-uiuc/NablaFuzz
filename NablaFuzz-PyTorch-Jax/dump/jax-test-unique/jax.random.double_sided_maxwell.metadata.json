@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"338edc0429bf4e43b857faa459a1805e","collectionName":"jax.random.double_sided_maxwell","type":"collection"}

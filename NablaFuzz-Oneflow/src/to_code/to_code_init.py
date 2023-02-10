@@ -1,0 +1,17 @@
+def initialize_code(i, current_api):
+    code = "import oneflow\n"
+    code += "import numpy as np\n"
+    code += "import os\n"
+    code += "import sys\n"
+    code += "dir_path = os.path.dirname(os.path.realpath(__file__))\n"
+    code += "parent_dir_path = os.path.abspath(os.path.join(dir_path, '../..'))\n"
+    code += "sys.path.insert(0, parent_dir_path)\n"
+    code += "from src.utils.load_data import get_info\n"
+    code += "from src.preprocess.process_data import handle_params\n"
+    code += "from src.utils.fuzz_data import fuzz_for_value_check\n"
+    code += "from src.utils.fuzz_data import fuzz\n\n"
+    code += "from src.oracles.grad_oracle import grad_check\n"
+    code += f"np.random.seed({i})\n"
+    code += f"_, params = get_info({current_api})\n"
+    code+= "arg_list, kwarg_dict, input_arg_list, input_kwarg_dict = handle_params(params)\n\n"
+    return code

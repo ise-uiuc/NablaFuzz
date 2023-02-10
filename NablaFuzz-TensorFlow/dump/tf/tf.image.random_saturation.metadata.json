@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"42869afc27c445f5b9ba69e5e86faaef","collectionName":"tf.image.random_saturation","type":"collection"}

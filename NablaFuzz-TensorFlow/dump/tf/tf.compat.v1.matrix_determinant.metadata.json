@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2cccef596f8c4b60898ed97fe722284f","collectionName":"tf.compat.v1.matrix_determinant","type":"collection"}

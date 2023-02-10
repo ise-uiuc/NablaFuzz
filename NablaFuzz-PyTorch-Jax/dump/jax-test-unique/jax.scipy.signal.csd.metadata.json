@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"1c3406cdae2941dba697552a5b9d4713","collectionName":"jax.scipy.signal.csd","type":"collection"}

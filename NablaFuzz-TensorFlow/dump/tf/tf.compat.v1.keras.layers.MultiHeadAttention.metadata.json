@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"8222700b43434b6ca48c8a6c131af222","collectionName":"tf.compat.v1.keras.layers.MultiHeadAttention","type":"collection"}

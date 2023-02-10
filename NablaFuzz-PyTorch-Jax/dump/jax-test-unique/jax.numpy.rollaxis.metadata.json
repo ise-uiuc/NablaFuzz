@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c18202489fa94a2790ad8d1a2a9dd5c9","collectionName":"jax.numpy.rollaxis","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"cecb49f7650444388af15536a4f0ea8e","collectionName":"tf.math.reduce_euclidean_norm","type":"collection"}

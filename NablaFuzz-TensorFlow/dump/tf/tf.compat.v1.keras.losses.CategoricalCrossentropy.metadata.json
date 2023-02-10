@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"9e47dfcbc5644e43a6c948f33359ba51","collectionName":"tf.compat.v1.keras.losses.CategoricalCrossentropy","type":"collection"}

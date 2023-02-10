@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"501409abd2c24065a372ae28af565115","collectionName":"tf.metrics.MeanAbsolutePercentageError","type":"collection"}

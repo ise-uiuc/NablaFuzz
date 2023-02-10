@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"efddba9e9a1547b6a0c153b022c3289a","collectionName":"tf.math.sigmoid","type":"collection"}

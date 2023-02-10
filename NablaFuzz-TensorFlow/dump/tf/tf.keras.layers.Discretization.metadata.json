@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"77a94f64e8984bcc9e78b1a779810ed4","collectionName":"tf.keras.layers.Discretization","type":"collection"}

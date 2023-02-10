@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"aa1d423bdc814e1386442e9aea3f7d8a","collectionName":"tf.compat.v1.keras.regularizers.serialize","type":"collection"}

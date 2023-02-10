@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7556ebe647ac41c99a94ed14004b9130","collectionName":"tf.keras.layers.experimental.preprocessing.CategoryEncoding","type":"collection"}

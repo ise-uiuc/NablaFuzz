@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"49fc56161e4e443fb23c70831bf5f9a7","collectionName":"tf.compat.v1.keras.layers.experimental.preprocessing.Rescaling","type":"collection"}

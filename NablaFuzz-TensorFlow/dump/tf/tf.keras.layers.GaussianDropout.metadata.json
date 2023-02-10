@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6d5d701e21f64edcaf678629ce35e85c","collectionName":"tf.keras.layers.GaussianDropout","type":"collection"}

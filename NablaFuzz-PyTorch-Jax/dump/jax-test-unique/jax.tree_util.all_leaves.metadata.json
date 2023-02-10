@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7bfcdaf5909e4a1eac81abd3b624d5ec","collectionName":"jax.tree_util.all_leaves","type":"collection"}

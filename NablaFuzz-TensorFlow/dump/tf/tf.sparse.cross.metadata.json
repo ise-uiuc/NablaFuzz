@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"44b00becdba64429b696fbd8d8ea66b0","collectionName":"tf.sparse.cross","type":"collection"}

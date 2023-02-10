@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b1ab7ba2a2844106849e1d299e1f3c07","collectionName":"tf.keras.utils.timeseries_dataset_from_array","type":"collection"}

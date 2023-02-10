@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"e197d8de9103435b8c1f8654a5dcff45","collectionName":"tf.compat.v1.keras.layers.Flatten","type":"collection"}

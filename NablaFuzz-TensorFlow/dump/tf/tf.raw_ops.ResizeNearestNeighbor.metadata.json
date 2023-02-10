@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"60db52f132a24db88ad3a603c7fc2044","collectionName":"tf.raw_ops.ResizeNearestNeighbor","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2958da49c1d74cd49a0fe08000be4475","collectionName":"tf.compat.v1.image.resize_bicubic","type":"collection"}

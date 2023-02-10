@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fe67968c44774ae0bb65f721c5b2ddf6","collectionName":"tf.compat.v1.keras.layers.Dropout","type":"collection"}

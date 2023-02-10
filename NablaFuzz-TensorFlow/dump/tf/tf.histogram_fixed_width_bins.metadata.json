@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"5de097c9bd9e446d821e8e3194a093fd","collectionName":"tf.histogram_fixed_width_bins","type":"collection"}

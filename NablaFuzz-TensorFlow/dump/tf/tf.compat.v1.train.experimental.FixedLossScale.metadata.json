@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f254e1663cc1446f8e51781fb544c62b","collectionName":"tf.compat.v1.train.experimental.FixedLossScale","type":"collection"}

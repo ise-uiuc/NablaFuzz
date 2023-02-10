@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"32eea3548a6d4143b3bd7b1e46c85da7","collectionName":"jax.scipy.signal.convolve2d","type":"collection"}

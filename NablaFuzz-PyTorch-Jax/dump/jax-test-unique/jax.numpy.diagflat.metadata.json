@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a9e652eacd444cbcaa177f1441ce93f9","collectionName":"jax.numpy.diagflat","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"39e2e449560743d38dddf6c05785609d","collectionName":"jax.nn.leaky_relu","type":"collection"}

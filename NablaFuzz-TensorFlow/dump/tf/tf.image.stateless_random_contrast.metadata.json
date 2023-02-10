@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"9147e3cabb5f4922a526a9c21c3bac70","collectionName":"tf.image.stateless_random_contrast","type":"collection"}

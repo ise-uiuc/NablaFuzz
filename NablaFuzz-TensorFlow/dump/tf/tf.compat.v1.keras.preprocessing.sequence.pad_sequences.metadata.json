@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"55a900a4c0ee4f72b0b2384066f9f370","collectionName":"tf.compat.v1.keras.preprocessing.sequence.pad_sequences","type":"collection"}

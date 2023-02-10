@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d163cd64650948628ed125745910fbe3","collectionName":"tf.keras.layers.Hashing","type":"collection"}

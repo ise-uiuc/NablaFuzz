@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"24204c219dc1441a92e39332e0a4e13d","collectionName":"jax.tree_util.register_pytree_node_class","type":"collection"}

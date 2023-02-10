@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0e9ea40ff0324575995bd558e573e12a","collectionName":"tf.experimental.numpy.nansum","type":"collection"}

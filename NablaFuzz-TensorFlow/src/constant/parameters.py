@@ -1,0 +1,3 @@
+# EQUALITY CHECK 
+ATOL = 1e-1
+RTOL = 1e-3

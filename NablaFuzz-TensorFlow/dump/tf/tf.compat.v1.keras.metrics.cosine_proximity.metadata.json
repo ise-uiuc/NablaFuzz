@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"511d6a3d0fb84fc38ca934c6089b3e2e","collectionName":"tf.compat.v1.keras.metrics.cosine_proximity","type":"collection"}

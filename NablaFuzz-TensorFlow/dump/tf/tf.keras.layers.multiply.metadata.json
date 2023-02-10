@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"1ccd5199c35c4b9ba6e0016dd14594ab","collectionName":"tf.keras.layers.multiply","type":"collection"}

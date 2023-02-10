@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3b1bb8e156b04f45ba557ae13d58a073","collectionName":"jax.lax.associative_scan","type":"collection"}

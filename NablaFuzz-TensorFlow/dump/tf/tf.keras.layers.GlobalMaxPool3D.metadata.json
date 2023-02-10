@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"81fd540bf6b6436997998f4f1ccbac6e","collectionName":"tf.keras.layers.GlobalMaxPool3D","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0b7a1a0b3df143a284c170630e72c50f","collectionName":"tf.keras.activations.hard_sigmoid","type":"collection"}

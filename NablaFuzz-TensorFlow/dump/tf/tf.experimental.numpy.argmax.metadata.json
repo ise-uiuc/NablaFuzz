@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"922281c779e24f4b9fcf7c586f64da47","collectionName":"tf.experimental.numpy.argmax","type":"collection"}

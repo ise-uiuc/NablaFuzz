@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"e218f13ffb3642ce83a5763edff1e7e9","collectionName":"tf.sign","type":"collection"}

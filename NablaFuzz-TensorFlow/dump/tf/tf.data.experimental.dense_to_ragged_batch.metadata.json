@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d265581ccf644dca9abee28ddfa87d39","collectionName":"tf.data.experimental.dense_to_ragged_batch","type":"collection"}

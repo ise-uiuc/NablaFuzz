@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"257e2f2b6658445099cb4bc601cd4edb","collectionName":"tf.compat.v1.matrix_transpose","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"72acc41644dc4d2089606853c3f81b8c","collectionName":"tf.math.atanh","type":"collection"}

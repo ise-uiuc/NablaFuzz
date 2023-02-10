@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c069ab3564e1400381c4a79de0b1d7b0","collectionName":"tf.losses.BinaryCrossentropy","type":"collection"}

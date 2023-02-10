@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"4c62167e61244b529b16c7c9016c680b","collectionName":"jax.numpy.bitwise_and","type":"collection"}

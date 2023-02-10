@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"18e8b3bb831a42d582f255e2535c3a68","collectionName":"jax.lax.scatter_mul","type":"collection"}

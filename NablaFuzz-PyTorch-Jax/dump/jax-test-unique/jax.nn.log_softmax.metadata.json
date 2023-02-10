@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c9eb96b59a494bf29242dab98cc9fef9","collectionName":"jax.nn.log_softmax","type":"collection"}

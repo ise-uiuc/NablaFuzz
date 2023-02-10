@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"4beef6145f83423997b8e5a1443e6818","collectionName":"tf.compat.v1.keras.initializers.TruncatedNormal","type":"collection"}

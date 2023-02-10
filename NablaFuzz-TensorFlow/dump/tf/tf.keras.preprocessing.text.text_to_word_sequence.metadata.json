@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f475d91617b6441f95b4d5b7e630de50","collectionName":"tf.keras.preprocessing.text.text_to_word_sequence","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0a0514abc1e94996bc7e3c936e5ab3e4","collectionName":"tf.keras.layers.SeparableConv2D","type":"collection"}

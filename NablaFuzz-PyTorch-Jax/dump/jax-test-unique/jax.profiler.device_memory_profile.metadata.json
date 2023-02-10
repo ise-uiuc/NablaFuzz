@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ec46a4dcc0e1497489133feb537cd0d2","collectionName":"jax.profiler.device_memory_profile","type":"collection"}

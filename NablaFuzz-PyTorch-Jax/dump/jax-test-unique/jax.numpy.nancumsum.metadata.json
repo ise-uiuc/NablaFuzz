@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"94b975eddd864698b4ca2442f30db46d","collectionName":"jax.numpy.nancumsum","type":"collection"}

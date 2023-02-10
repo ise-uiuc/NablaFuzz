@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f4e72f1d75de43d4903a875c4160a487","collectionName":"jax.lax.cummin","type":"collection"}

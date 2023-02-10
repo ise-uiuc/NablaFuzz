@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"77ea903603734988819f6290a2e02abc","collectionName":"tf.keras.losses.sparse_categorical_crossentropy","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"8aeee9b5b9f347ceb8bb817e413d447e","collectionName":"tf.keras.losses.log_cosh","type":"collection"}

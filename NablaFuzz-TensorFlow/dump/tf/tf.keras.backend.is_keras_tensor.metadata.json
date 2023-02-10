@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"044834989d9a4a29ac35587e7e1a83e8","collectionName":"tf.keras.backend.is_keras_tensor","type":"collection"}

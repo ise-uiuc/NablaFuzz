@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"9aeb629aab934a73af871d57a88bb755","collectionName":"tf.linalg.diag_part","type":"collection"}

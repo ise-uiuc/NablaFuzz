@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c7087da6658b443ea38e104f64eda01d","collectionName":"jax.scipy.linalg.solve_triangular","type":"collection"}

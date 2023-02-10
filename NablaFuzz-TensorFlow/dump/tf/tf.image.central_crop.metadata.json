@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"e4a906701435473c9ff5ed3ee6072458","collectionName":"tf.image.central_crop","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f51047e4d2ff4d22bf890452a4deb430","collectionName":"jax.scipy.ndimage.map_coordinates","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"228d30fda0754ec8a22c32a1c5476c3d","collectionName":"tf.raw_ops.Reshape","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"7249320720be4c799a2315cbc6720582","collectionName":"tf.compat.v1.clip_by_average_norm","type":"collection"}

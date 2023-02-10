@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"d5d4dbd98de140b9a09f3b94263bac6e","collectionName":"jax.scipy.linalg.rsf2csf","type":"collection"}

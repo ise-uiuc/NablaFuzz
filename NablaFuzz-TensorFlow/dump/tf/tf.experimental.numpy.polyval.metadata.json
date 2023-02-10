@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a176509b765c4f63a69315a07fa1ced5","collectionName":"tf.experimental.numpy.polyval","type":"collection"}
