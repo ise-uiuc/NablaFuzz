@@ -14,7 +14,7 @@ This is the ∇Fuzz's implementation on PyTorch, TensorFlow, JAX, and OneFlow.
 
 Until submission, ∇Fuzz has detected 173 bugs in total for PyTorch, TensorFlow, JAX and OneFlow, with 144 already confirmed by developers.
 
-We provide a list of confirmed bug reports on [PyTorch](https://github.com/NablaFuzz/NablaFuzz/blob/main/PyTorch-confirmed-bugs.csv), [TensorFlow](https://github.com/NablaFuzz/NablaFuzz/blob/main/TensorFlow-confirmed-bugs.csv), [JAX](https://github.com/NablaFuzz/NablaFuzz/blob/main/Jax-confirmed-bugs.csv) and [OneFlow](https://github.com/NablaFuzz/NablaFuzz/blob/main/OneFlow-confirmed-bugs.csv).
+We provide a list of confirmed bug reports on [PyTorch](https://github.com/ise-uiuc/NablaFuzz/blob/main/PyTorch-confirmed-bugs.csv), [TensorFlow](https://github.com/ise-uiuc/NablaFuzz/blob/main/TensorFlow-confirmed-bugs.csv), [JAX](https://github.com/ise-uiuc/NablaFuzz/blob/main/Jax-confirmed-bugs.csv) and [OneFlow](https://github.com/ise-uiuc/NablaFuzz/blob/main/OneFlow-confirmed-bugs.csv).
 
 ## Getting Started
 
