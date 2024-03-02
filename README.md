@@ -1,12 +1,10 @@
 # ∇Fuzz
 
-This is the artifact of the research paper, "Fuzzing Automatic Differentiation in Deep-Learning Libraries" (ICSE'23).
+This is the artifact of the research paper, "Fuzzing Automatic Differentiation in Deep-Learning Libraries" (in submission). The authors make their best attempt to anonymize the artifacts. Please note that it may still be possible that the authors' identities are revealed by deeply studying this repository.
 
 ## About
 
 ∇Fuzz is a fully automated API-level fuzzer targeting AD in DL libraries, which utilizes differential testing on different execution scenarios to test both first-order and high-order gradients, and also includes automated filtering strategies to remove false positives caused by numerical instability.
-
-We cross-check the output values and gradients for the same function and input computed in different execution scenerios, such as direct invocation, reverse mode AD, and forward mode AD, as the test oracle. For more details, please check our [paper](https://yangchenyuan.github.io/files/ICSE23-NablaFuzz.pdf).
 
 This is the ∇Fuzz's implementation on PyTorch, TensorFlow, JAX, and OneFlow.
 
@@ -14,7 +12,8 @@ This is the ∇Fuzz's implementation on PyTorch, TensorFlow, JAX, and OneFlow.
 
 Until submission, ∇Fuzz has detected 173 bugs in total for PyTorch, TensorFlow, JAX and OneFlow, with 144 already confirmed by developers.
 
-We provide a list of confirmed bug reports on [PyTorch](https://github.com/ise-uiuc/NablaFuzz/blob/main/PyTorch-confirmed-bugs.csv), [TensorFlow](https://github.com/ise-uiuc/NablaFuzz/blob/main/TensorFlow-confirmed-bugs.csv), [JAX](https://github.com/ise-uiuc/NablaFuzz/blob/main/Jax-confirmed-bugs.csv) and [OneFlow](https://github.com/ise-uiuc/NablaFuzz/blob/main/OneFlow-confirmed-bugs.csv).
+We provide a list of confirmed bug reports on [PyTorch](https://github.com/NablaFuzz/NablaFuzz/blob/main/PyTorch-confirmed-bugs.csv), [TensorFlow](https://github.com/NablaFuzz/NablaFuzz/blob/main/TensorFlow-confirmed-bugs.csv), [JAX](https://github.com/NablaFuzz/NablaFuzz/blob/main/Jax-confirmed-bugs.csv) and [OneFlow](https://github.com/NablaFuzz/NablaFuzz/blob/main/OneFlow-confirmed-bugs.csv).
+> Please kindly note that this might reveal our identity, please think twice before clicking into this.
 
 ## Getting Started
 
@@ -39,6 +38,20 @@ We provide a list of confirmed bug reports on [PyTorch](https://github.com/ise-u
 	```shell
 	python3 -m pip install --find-links https://release.oneflow.info oneflow==0.7.0
 	```
+
+4. JAX install
+
+For JAX, if you want to reproduce our results on version `0.3.14`, you could use the following commands to install jaxlib on CPU via the wheel archive:
+
+```
+# Install jaxlib on CPU via the wheel archive
+pip install jax[cpu]==0.3.14 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+
+# Install the jaxlib 0.3.25 CPU wheel directly
+pip install jaxlib==0.3.14 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+```
+
+For more information about JAX installation, please refer to the [official website](https://jax.readthedocs.io/en/latest/installation.html#installing-jax).
 
 ### Step 2: Set up Database
 
@@ -134,10 +147,3 @@ python tf_filter.py
 ```
 
 The outputs will be put in `NablaFuzz-TensorFlow/expr_outputs` by default. 
-
-## Extension
-
-Actually, our approach is orthogonal to all existing DL fuzzing work since all of them does not focus on the correctness of AD engine.
-Fortunately, it is easy to extend those work with our test oracle by providing a function and its given input.
-
-For example, in the `NablaFuzz-PyTorch-Jax/src/helper_torch.py`, there are the wrapper functions for different scenarios, such as `DirectInv(func, inputs, ...)`, `RevInv(func, inputs, ...)`, `FwdInv(func, inputs, ...)`. As long as you provide the function and its input, you can cross-check the results computed in different scenarios.
